@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Danil
 - 👀 I’m interested in CV and Data Analysis
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on CV and Data Analysis
 
 <!---
